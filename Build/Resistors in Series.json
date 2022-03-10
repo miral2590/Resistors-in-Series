@@ -1,0 +1,13 @@
+{
+"companyName": "Virtual 3Ed",
+"productName": "Resistors in Series",
+"dataUrl": "Resistors in Series.data.unityweb",
+"wasmCodeUrl": "Resistors in Series.wasm.code.unityweb",
+"wasmFrameworkUrl": "Resistors in Series.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"}
+}
